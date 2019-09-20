@@ -1,3 +1,3 @@
-nama:okt
-alamat:
-jurusan:
+nama:okta
+alamat:pwt
+jurusan:d3 mi
